@@ -1,0 +1,34 @@
+[
+  {
+    "name": "AWS",
+    "type": "Product"
+  },
+  {
+    "name": "EC2",
+    "type": "Product",
+    "usedBy": ["AWS"]
+  },
+  {
+    "name": "S3",
+    "type": "Product",
+    "usedBy": ["AWS"]
+  },
+  {
+    "name": "software-development-engineer",
+    "type": "Role",
+    "implements": ["software-development", "containers"]
+  },
+  {
+    "name": "software-development",
+    "type": "Concept"
+  },
+  {
+    "name": "Containers",
+    "type": "Concept"
+  },
+  {
+    "name": "Docker",
+    "type": "Product",
+    "usedBy": ["Containers"]
+  }
+]

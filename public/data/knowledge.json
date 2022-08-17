@@ -1,0 +1,2097 @@
+{
+  "security": { "name": "security", "category": "concept" },
+  "testing": { "name": "testing", "category": "concept" },
+  "computer science": { "name": "computer science", "category": "concept" },
+  "database": { "name": "database", "category": "concept" },
+  "microsoft": { "name": "microsoft", "category": "company" },
+  "python": { "name": "python", "category": "language" },
+  "file": { "name": "file", "category": "concept" },
+  "frameworks": { "name": "frameworks", "category": "concept" },
+  "java": { "name": "java", "category": "language" },
+  "integration": { "name": "integration", "category": "concept" },
+  "server": { "name": "server", "category": "concept" },
+  "javascript": { "name": "javascript", "category": "language" },
+  "windows": { "name": "windows", "category": "operating system" },
+  "video": { "name": "video", "category": "concept" },
+  "linux": { "name": "linux", "category": "operating system" },
+  "agile": { "name": "agile", "category": "concept" },
+  "sql": { "name": "sql", "category": "language" },
+  "project management": { "name": "project management", "category": "concept" },
+  "reporting": { "name": "reporting", "category": "concept" },
+  "operating system": { "name": "operating system", "category": "concept" },
+  "analytics": { "name": "analytics", "category": "concept" },
+  "model": { "name": "model", "category": "concept" },
+  "excel": { "name": "excel", "category": "software program" },
+  "ms office": { "name": "ms office", "category": "software program" },
+  "c": { "name": "c", "category": "language" },
+  "d": { "name": "d", "category": "language" },
+  "amazon web services": {
+    "name": "amazon web services",
+    "category": "cloud provider"
+  },
+  "api": { "name": "api", "category": "concept" },
+  "html": { "name": "html", "category": "language" },
+  "post": { "name": "post", "category": "concept" },
+  "string": { "name": "string", "category": "concept" },
+  "word": { "name": "word", "category": "software program" },
+  "metrics": { "name": "metrics", "category": "concept" },
+  "title": { "name": "title", "category": "skipreturn" },
+  "call": { "name": "call", "category": "skip" },
+  "protocols": { "name": "protocols", "category": "concept" },
+  "css": { "name": "css", "category": "language" },
+  "storage": { "name": "storage", "category": "concept" },
+  "android": { "name": "android", "category": "operating system" },
+  "lifecycle": { "name": "lifecycle", "category": "concept" },
+  "c++": { "name": "c++", "category": "language" },
+  "web applications": { "name": "web applications", "category": "concept" },
+  "c#": { "name": "c#", "category": "language" },
+  "request": { "name": "request", "category": "concept" },
+  "variables": { "name": "variables", "category": "concept" },
+  "modeling": { "name": "modeling", "category": "concept" },
+  "validation": { "name": "validation", "category": "concept" },
+  "tracking": { "name": "tracking", "category": "concept" },
+  "packages": { "name": "packages", "category": "concept" },
+  "optimization": { "name": "optimization", "category": "concept" },
+  "azure": { "name": "azure", "category": "cloud provider" },
+  "lines": { "name": "lines", "category": "skip" },
+  "root": { "name": "root", "category": "concept" },
+  "interface": { "name": "interface", "category": "concept" },
+  "powerpoint": { "name": "powerpoint", "category": "software program" },
+  "stack": { "name": "stack", "category": "concept" },
+  "rest": { "name": "rest", "category": "concept" },
+  "git": { "name": "git", "category": "software program" },
+  "audit": { "name": "audit", "category": "concept" },
+  "qa": { "name": "qa", "category": "concept" },
+  "algorithm": { "name": "algorithm", "category": "concept" },
+  "oracle": { "name": "oracle", "category": "company" },
+  "machine learning": { "name": "machine learning", "category": "concept" },
+  "build": { "name": "build", "category": "concept" },
+  "verification": { "name": "verification", "category": "concept" },
+  "data analysis": { "name": "data analysis", "category": "concept" },
+  "ios": { "name": "ios", "category": "operating system" },
+  "code coverage": { "name": "code coverage", "category": "concept" },
+  "unix": { "name": "unix", "category": "operating system" },
+  "division": { "name": "division", "category": "concept" },
+  "statistics": { "name": "statistics", "category": "concept" },
+  "units of measurement": {
+    "name": "units of measurement",
+    "category": "concept"
+  },
+  "transformation": { "name": "transformation", "category": "concept" },
+  "updates": { "name": "updates", "category": "concept" },
+  "php": { "name": "php", "category": "language" },
+  "var": { "name": "var", "category": "concept" },
+  "authentication": { "name": "authentication", "category": "concept" },
+  "user interface": { "name": "user interface", "category": "concept" },
+  "monitor": { "name": "monitor", "category": "concept" },
+  "module": { "name": "module", "category": "concept" },
+  "scripting": { "name": "scripting", "category": "concept" },
+  "orders": { "name": "orders", "category": "concept" },
+  "containers": { "name": "containers", "category": "concept" },
+  "devops": { "name": "devops", "category": "concept" },
+  "user experience": { "name": "user experience", "category": "concept" },
+  "macos": { "name": "macos", "category": "operating system" },
+  "int": { "name": "int", "category": "concept" },
+  "open source": { "name": "open source", "category": "concept" },
+  "r": { "name": "r", "category": "language" },
+  ".net": {
+    "name": ".net",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "sql server": { "name": "sql server", "category": "software program" },
+  "query": { "name": "query", "category": "concept" },
+  "amazon": { "name": "amazon", "category": "company" },
+  "null": { "name": "null", "category": "concept" },
+  "json": { "name": "json", "category": "file format" },
+  "angular": {
+    "name": "angular",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "xml": { "name": "xml", "category": "language" },
+  "docker": { "name": "docker", "category": "software program" },
+  "jquery": {
+    "name": "jquery",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "artificial intelligence": {
+    "name": "artificial intelligence",
+    "category": "concept"
+  },
+  "mysql": { "name": "mysql", "category": "software program" },
+  "browser": { "name": "browser", "category": "concept" },
+  "return": { "name": "return", "category": "concept" },
+  "tcp": { "name": "tcp", "category": "standard/protocol" },
+  "outlook": { "name": "outlook", "category": "software program" },
+  "reactjs": {
+    "name": "reactjs",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "classification": { "name": "classification", "category": "concept" },
+  "web services": { "name": "web services", "category": "concept" },
+  "3d": { "name": "3d", "category": "concept" },
+  "programming languages": {
+    "name": "programming languages",
+    "category": "concept"
+  },
+  "scheduling": { "name": "scheduling", "category": "concept" },
+  "shell": { "name": "shell", "category": "concept" },
+  "ads": { "name": "ads", "category": "concept" },
+  "void": { "name": "void", "category": "concept" },
+  "columns": { "name": "columns", "category": "concept" },
+  "theory": { "name": "theory", "category": "concept" },
+  "data science": { "name": "data science", "category": "concept" },
+  "version control": { "name": "version control", "category": "concept" },
+  "encryption": { "name": "encryption", "category": "concept" },
+  "constants": { "name": "constants", "category": "concept" },
+  "repository": { "name": "repository", "category": "concept" },
+  "vmware": { "name": "vmware", "category": "company" },
+  "meeting request": { "name": "meeting request", "category": "concept" },
+  "active directory": {
+    "name": "active directory",
+    "category": "software program"
+  },
+  "sap": { "name": "sap", "category": "company" },
+  "firewall": { "name": "firewall", "category": "concept" },
+  "penetration testing": {
+    "name": "penetration testing",
+    "category": "concept"
+  },
+  "assembly": { "name": "assembly", "category": "language" },
+  "adobe": { "name": "adobe", "category": "company" },
+  "jira": { "name": "jira", "category": "software program" },
+  "node.js": { "name": "node.js", "category": "runtime" },
+  "bash": { "name": "bash", "category": "concept" },
+  "powershell": { "name": "powershell", "category": "software program" },
+  "http": { "name": "http", "category": "standard/protocol" },
+  "migration": { "name": "migration", "category": "concept" },
+  "ruby": { "name": "ruby", "category": "language" },
+  "saas": { "name": "saas", "category": "concept" },
+  "virtualization": { "name": "virtualization", "category": "concept" },
+  "unit testing": { "name": "unit testing", "category": "concept" },
+  "jenkins": { "name": "jenkins", "category": "software program" },
+  "constraints": { "name": "constraints", "category": "concept" },
+  "branch": { "name": "branch", "category": "concept" },
+  "perl": { "name": "perl", "category": "language" },
+  "spring": {
+    "name": "spring",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "github": { "name": "github", "category": "company" },
+  "kubernetes": { "name": "kubernetes", "category": "software program" },
+  "google cloud platform": {
+    "name": "google cloud platform",
+    "category": "cloud provider"
+  },
+  "twitter": { "name": "twitter", "category": "company" },
+  "plugins": { "name": "plugins", "category": "concept" },
+  "scripting language": { "name": "scripting language", "category": "concept" },
+  "oop": { "name": "oop", "category": "concept" },
+  "photoshop": { "name": "photoshop", "category": "software program" },
+  "salesforce": { "name": "salesforce", "category": "company" },
+  "swift": { "name": "swift", "category": "language" },
+  "spreadsheet": { "name": "spreadsheet", "category": "concept" },
+  "continuous integration": {
+    "name": "continuous integration",
+    "category": "concept"
+  },
+  "sharepoint": { "name": "sharepoint", "category": "software program" },
+  "syntax": { "name": "syntax", "category": "concept" },
+  "controller": { "name": "controller", "category": "concept" },
+  "forecasting": { "name": "forecasting", "category": "concept" },
+  "data structures": { "name": "data structures", "category": "concept" },
+  "ms word": { "name": "ms word", "category": "software program" },
+  "business intelligence": {
+    "name": "business intelligence",
+    "category": "concept"
+  },
+  "crm": { "name": "crm", "category": "concept" },
+  "compilation": { "name": "compilation", "category": "concept" },
+  "tableau": { "name": "tableau", "category": "software program" },
+  "command line": { "name": "command line", "category": "concept" },
+  "linkedin": { "name": "linkedin", "category": "company" },
+  "debugging": { "name": "debugging", "category": "concept" },
+  "postgresql": { "name": "postgresql", "category": "language" },
+  "routing": { "name": "routing", "category": "concept" },
+  "vpn": { "name": "vpn", "category": "concept" },
+  "iot": { "name": "iot", "category": "concept" },
+  "splunk": { "name": "splunk", "category": "company" },
+  "lan": { "name": "lan", "category": "technology" },
+  "design patterns": { "name": "design patterns", "category": "concept" },
+  "multithreading": { "name": "multithreading", "category": "concept" },
+  "wordpress": { "name": "wordpress", "category": "company" },
+  "microsoft dynamics": {
+    "name": "microsoft dynamics",
+    "category": "software program"
+  },
+  "header": { "name": "header", "category": "concept" },
+  "apache spark": {
+    "name": "apache spark",
+    "category": "library/framework",
+    "written_in": ["scala"]
+  },
+  "arguments": { "name": "arguments", "category": "concept" },
+  "youtube": { "name": "youtube", "category": "company" },
+  "mongodb": { "name": "mongodb", "category": "software program" },
+  "access control": { "name": "access control", "category": "concept" },
+  "go": { "name": "go", "category": "language" },
+  "backend": { "name": "backend", "category": "concept" },
+  "visual studio": { "name": "visual studio", "category": "software program" },
+  "cryptography": { "name": "cryptography", "category": "concept" },
+  "seo": { "name": "seo", "category": "concept" },
+  "hadoop": {
+    "name": "hadoop",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "ansible": { "name": "ansible", "category": "software program" },
+  "graph": { "name": "graph", "category": "concept" },
+  "ssl": { "name": "ssl", "category": "standard/protocol" },
+  "microservices": { "name": "microservices", "category": "concept" },
+  "data visualization": { "name": "data visualization", "category": "concept" },
+  "visio": { "name": "visio", "category": "software program" },
+  "google chrome": { "name": "google chrome", "category": "software program" },
+  "terminal": { "name": "terminal", "category": "concept" },
+  "gateway": { "name": "gateway", "category": "concept" },
+  "etl": { "name": "etl", "category": "concept" },
+  "autocad": { "name": "autocad", "category": "software program" },
+  "apache": { "name": "apache", "category": "company" },
+  "pdf": { "name": "pdf", "category": "standard/protocol" },
+  "google sheets": { "name": "google sheets", "category": "software program" },
+  "websphere": { "name": "websphere", "category": "software program" },
+  "amazon iam": { "name": "amazon iam", "category": "service" },
+  "operators": { "name": "operators", "category": "concept" },
+  "development environment": {
+    "name": "development environment",
+    "category": "concept"
+  },
+  "ajax": { "name": "ajax", "category": "standard/protocol" },
+  "arrays": { "name": "arrays", "category": "concept" },
+  "data warehouse": { "name": "data warehouse", "category": "concept" },
+  "maven": { "name": "maven", "category": "software program" },
+  "frequency": { "name": "frequency", "category": "concept" },
+  "boolean": { "name": "boolean", "category": "concept" },
+  "matlab": { "name": "matlab", "category": "software program" },
+  "model view controller": {
+    "name": "model view controller",
+    "category": "concept"
+  },
+  "amazon s3": { "name": "amazon s3", "category": "service" },
+  "xcode": { "name": "xcode", "category": "software program" },
+  "soap": { "name": "soap", "category": "standard/protocol" },
+  "width": { "name": "width", "category": "concept" },
+  "e commerce": { "name": "e commerce", "category": "concept" },
+  "elasticsearch": { "name": "elasticsearch", "category": "software program" },
+  "touch": { "name": "touch", "category": "concept" },
+  "regression": { "name": "regression", "category": "concept" },
+  "software design": { "name": "software design", "category": "concept" },
+  "android intent": { "name": "android intent", "category": "concept" },
+  "integer": { "name": "integer", "category": "concept" },
+  "eclipse": { "name": "eclipse", "category": "software program" },
+  "jakarta ee": { "name": "jakarta ee", "category": "software program" },
+  "instagram": { "name": "instagram", "category": "company" },
+  "compiler construction": {
+    "name": "compiler construction",
+    "category": "concept"
+  },
+  "iphone": { "name": "iphone", "category": "device" },
+  "unity3d": { "name": "unity3d", "category": "software program" },
+  "try catch": { "name": "try catch", "category": "concept" },
+  "django": {
+    "name": "django",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "facebook page": { "name": "facebook page", "category": "concept" },
+  "entity": { "name": "entity", "category": "concept" },
+  "apache kafka": { "name": "apache kafka", "category": "software program" },
+  "typescript": { "name": "typescript", "category": "language" },
+  "patch": { "name": "patch", "category": "concept" },
+  "scala": { "name": "scala", "category": "language" },
+  "ruby on rails": {
+    "name": "ruby on rails",
+    "category": "library/framework",
+    "written_in": ["ruby"]
+  },
+  "rows": { "name": "rows", "category": "concept" },
+  "automated tests": { "name": "automated tests", "category": "concept" },
+  "database design": { "name": "database design", "category": "concept" },
+  "accessibility": { "name": "accessibility", "category": "concept" },
+  "case study": { "name": "case study", "category": "concept" },
+  "error message": { "name": "error message", "category": "concept" },
+  "data modeling": { "name": "data modeling", "category": "concept" },
+  "asp.net": {
+    "name": "asp.net",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "amazon ec2": { "name": "amazon ec2", "category": "service" },
+  "deep learning": { "name": "deep learning", "category": "concept" },
+  "content management system": {
+    "name": "content management system",
+    "category": "concept"
+  },
+  "puppet": { "name": "puppet", "category": "software program" },
+  "cluster computing": { "name": "cluster computing", "category": "concept" },
+  "pandas": {
+    "name": "pandas",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "regex": { "name": "regex", "category": "concept" },
+  "2d": { "name": "2d", "category": "concept" },
+  "icons": { "name": "icons", "category": "concept" },
+  "angularjs": {
+    "name": "angularjs",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "chef infra": { "name": "chef infra", "category": "software program" },
+  "macros": { "name": "macros", "category": "concept" },
+  "tdd": { "name": "tdd", "category": "concept" },
+  "lambda": { "name": "lambda", "category": "concept" },
+  "ubuntu": { "name": "ubuntu", "category": "operating system" },
+  "ide": { "name": "ide", "category": "concept" },
+  "selenium": {
+    "name": "selenium",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "router": { "name": "router", "category": "concept" },
+  "closures": { "name": "closures", "category": "concept" },
+
+  "express": {
+    "name": "express",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "crash": { "name": "crash", "category": "concept" },
+  "search engine": { "name": "search engine", "category": "concept" },
+  "fluent": { "name": "fluent", "category": "software program" },
+  "numeric": { "name": "numeric", "category": "concept" },
+  "confluence": { "name": "confluence", "category": "software program" },
+  "spring boot": {
+    "name": "spring boot",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "dataframe": { "name": "dataframe", "category": "concept" },
+  "preview": { "name": "preview", "category": "concept" },
+  "windows 10": { "name": "windows 10", "category": "operating system" },
+  "relational database": {
+    "name": "relational database",
+    "category": "concept"
+  },
+  "data mining": { "name": "data mining", "category": "concept" },
+  "coding style": { "name": "coding style", "category": "concept" },
+  "programmatically": { "name": "programmatically", "category": "concept" },
+  "iis": { "name": "iis", "category": "software program" },
+  "load balancing": { "name": "load balancing", "category": "concept" },
+  "fibers": { "name": "fibers", "category": "concept" },
+  "production environment": {
+    "name": "production environment",
+    "category": "concept"
+  },
+  "command line interface": {
+    "name": "command line interface",
+    "category": "concept"
+  },
+  "vue.js": {
+    "name": "vue.js",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "conditional": { "name": "conditional", "category": "concept" },
+  "jersey": {
+    "name": "jersey",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "ethernet": { "name": "ethernet", "category": "technology" },
+  "ssh": { "name": "ssh", "category": "standard/protocol" },
+  "stored procedures": { "name": "stored procedures", "category": "concept" },
+  "large data": { "name": "large data", "category": "concept" },
+  "database administration": {
+    "name": "database administration",
+    "category": "concept"
+  },
+  "sdk": { "name": "sdk", "category": "concept" },
+  "pointers": { "name": "pointers", "category": "concept" },
+  "middleware": { "name": "middleware", "category": "concept" },
+  "android studio": {
+    "name": "android studio",
+    "category": "software program"
+  },
+  "reverse engineering": {
+    "name": "reverse engineering",
+    "category": "concept"
+  },
+  "terraform": { "name": "terraform", "category": "software program" },
+  "google analytics": { "name": "google analytics", "category": "service" },
+  "binary": { "name": "binary", "category": "concept" },
+  "tomcat": { "name": "tomcat", "category": "software program" },
+  "manpage": { "name": "manpage", "category": "concept" },
+  "hash": { "name": "hash", "category": "concept" },
+  "arm": { "name": "arm", "category": "technology" },
+  "windows 7": { "name": "windows 7", "category": "operating system" },
+  "ada": { "name": "ada", "category": "language" },
+  "ldap": { "name": "ldap", "category": "standard/protocol" },
+  "shortcut": { "name": "shortcut", "category": "concept" },
+  "junit": {
+    "name": "junit",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "numpy": {
+    "name": "numpy",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "username": { "name": "username", "category": "concept" },
+  "metal": { "name": "metal", "category": "software program" },
+  "coffeescript": { "name": "coffeescript", "category": "language" },
+  "voip": { "name": "voip", "category": "standard/protocol" },
+  "standards compliance": {
+    "name": "standards compliance",
+    "category": "concept"
+  },
+  "gis": {
+    "name": "gis",
+    "category": "library/framework",
+    "written_in": ["na"]
+  },
+  "token": { "name": "token", "category": "concept" },
+  "positioning": { "name": "positioning", "category": "concept" },
+  "ssis": { "name": "ssis", "category": "software program" },
+  "nosql": { "name": "nosql", "category": "concept" },
+  "bundle": { "name": "bundle", "category": "concept" },
+  "signal processing": { "name": "signal processing", "category": "concept" },
+  "fix protocol": { "name": "fix protocol", "category": "concept" },
+  "frontend": { "name": "frontend", "category": "concept" },
+  "npm": { "name": "npm", "category": "package manager" },
+  "nlp": { "name": "nlp", "category": "concept" },
+  "firefox": { "name": "firefox", "category": "software program" },
+  "wireshark": { "name": "wireshark", "category": "software program" },
+  "code snippets": { "name": "code snippets", "category": "concept" },
+  "csv": { "name": "csv", "category": "file format" },
+  "annotations": { "name": "annotations", "category": "concept" },
+  "maya": { "name": "maya", "category": "software program" },
+  "gradle": { "name": "gradle", "category": "software program" },
+  "network protocols": { "name": "network protocols", "category": "concept" },
+  "undefined": { "name": "undefined", "category": "concept" },
+  "char": { "name": "char", "category": "concept" },
+  "computer vision": { "name": "computer vision", "category": "concept" },
+  "dom": { "name": "dom", "category": "language" },
+  "https": { "name": "https", "category": "standard/protocol" },
+  "namespaces": { "name": "namespaces", "category": "concept" },
+  "workday api": { "name": "workday api", "category": "service" },
+  "insert": { "name": "insert", "category": "concept" },
+  "hive": { "name": "hive", "category": "software program" },
+  "parsing": { "name": "parsing", "category": "concept" },
+  "blockchain": { "name": "blockchain", "category": "concept" },
+  "soa": { "name": "soa", "category": "concept" },
+  "kotlin": { "name": "kotlin", "category": "language" },
+  "integration testing": {
+    "name": "integration testing",
+    "category": "concept"
+  },
+  "tensorflow": {
+    "name": "tensorflow",
+    "category": "library/framework",
+    "written_in": ["c++"]
+  },
+  "commit": { "name": "commit", "category": "concept" },
+  "cpu": { "name": "cpu", "category": "concept" },
+  "dialog": { "name": "dialog", "category": "software program" },
+  "rdbms": { "name": "rdbms", "category": "concept" },
+  "tfs": { "name": "tfs", "category": "software program" },
+  "remote access": { "name": "remote access", "category": "concept" },
+  "xml namespaces": { "name": "xml namespaces", "category": "concept" },
+  "mobile application": { "name": "mobile application", "category": "concept" },
+  "src": { "name": "src", "category": "concept" },
+  "apk": { "name": "apk", "category": "file format" },
+  "render": { "name": "render", "category": "concept" },
+  "widget": { "name": "widget", "category": "concept" },
+  "probability": { "name": "probability", "category": "concept" },
+  "game development": { "name": "game development", "category": "concept" },
+  "serverless": { "name": "serverless", "category": "concept" },
+  "reporting services": { "name": "reporting services", "category": "concept" },
+  "delete": { "name": "delete", "category": "concept" },
+  "bitbucket": { "name": "bitbucket", "category": "service" },
+  ".net core": {
+    "name": ".net core",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "cassandra": { "name": "cassandra", "category": "software program" },
+  "ipad": { "name": "ipad", "category": "device" },
+  "code review": { "name": "code review", "category": "concept" },
+  "float": { "name": "float", "category": "concept" },
+  "cookies": { "name": "cookies", "category": "concept" },
+  "grammar": { "name": "grammar", "category": "concept" },
+  "redis": { "name": "redis", "category": "software program" },
+  "ms access": { "name": "ms access", "category": "software program" },
+  "svn": { "name": "svn", "category": "software program" },
+  "filenames": { "name": "filenames", "category": "concept" },
+  "centos": { "name": "centos", "category": "operating system" },
+  "windows xp": { "name": "windows xp", "category": "operating system" },
+  "vba": { "name": "vba", "category": "language" },
+  "scroll": { "name": "scroll", "category": "concept" },
+  "ecmascript 6": { "name": "ecmascript 6", "category": "language" },
+  "amazon rds": { "name": "amazon rds", "category": "service" },
+  "entity framework": { "name": "entity framework", "category": "concept" },
+  "func": { "name": "func", "category": "concept" },
+  "scheme": { "name": "scheme", "category": "language" },
+  "nexus": { "name": "nexus", "category": "software program" },
+  "ebook": { "name": "ebook", "category": "concept" },
+  "std": { "name": "std", "category": "concept" },
+  "interop": { "name": "interop", "category": "concept" },
+  "datetime": { "name": "datetime", "category": "concept" },
+  "laravel": {
+    "name": "laravel",
+    "category": "library/framework",
+    "written_in": ["php"]
+  },
+  "flash": { "name": "flash", "category": "software program" },
+  "python 3.x": { "name": "python 3.x", "category": "language" },
+  "app store": { "name": "app store", "category": "concept" },
+  "intellij idea": { "name": "intellij idea", "category": "software program" },
+  "init": { "name": "init", "category": "concept" },
+  "apache storm": {
+    "name": "apache storm",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "callback": { "name": "callback", "category": "concept" },
+  "virtual machine": { "name": "virtual machine", "category": "concept" },
+  "sockets": { "name": "sockets", "category": "standard/protocol" },
+  "inheritance": { "name": "inheritance", "category": "concept" },
+  "backbone.js": {
+    "name": "backbone.js",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "single sign on": { "name": "single sign on", "category": "concept" },
+  "com": { "name": "com", "category": "concept" },
+  "apt": { "name": "apt", "category": "concept" },
+  "vb.net": { "name": "vb.net", "category": "language" },
+  "ftp": { "name": "ftp", "category": "standard/protocol" },
+  "code injection": { "name": "code injection", "category": "concept" },
+  "gcc": { "name": "gcc", "category": "compiler" },
+  "jar": { "name": "jar", "category": "file format" },
+  "environment variables": {
+    "name": "environment variables",
+    "category": "concept"
+  },
+  "buffer": { "name": "buffer", "category": "concept" },
+  "virtual reality": { "name": "virtual reality", "category": "concept" },
+  "rsa": { "name": "rsa", "category": "standard/protocol" },
+  "kernel": { "name": "kernel", "category": "concept" },
+  "performance testing": {
+    "name": "performance testing",
+    "category": "concept"
+  },
+  "redhat": { "name": "redhat", "category": "company" },
+  "wpf": { "name": "wpf", "category": "software program" },
+  "reactive": { "name": "reactive", "category": "concept" },
+  "sass": { "name": "sass", "category": "concept" },
+  "redux": {
+    "name": "redux",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "matplotlib": {
+    "name": "matplotlib",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "udp": { "name": "udp", "category": "standard/protocol" },
+  "simulator": { "name": "simulator", "category": "concept" },
+  "infrastructure as code": {
+    "name": "infrastructure as code",
+    "category": "concept"
+  },
+  "oauth": { "name": "oauth", "category": "standard/protocol" },
+  "struct": { "name": "struct", "category": "concept" },
+  "gps": { "name": "gps", "category": "standard/protocol" },
+  "inline": { "name": "inline", "category": "concept" },
+  "webpack": { "name": "webpack", "category": "software program" },
+  "transitions": { "name": "transitions", "category": "concept" },
+  "garbage collection": { "name": "garbage collection", "category": "concept" },
+  "amazon dynamodb": { "name": "amazon dynamodb", "category": "service" },
+  "shadow": { "name": "shadow", "category": "concept" },
+  "azure devops": { "name": "azure devops", "category": "service" },
+  "amazon redshift": { "name": "amazon redshift", "category": "service" },
+  "foreach": { "name": "foreach", "category": "concept" },
+  "jsp": {
+    "name": "jsp",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "text files": { "name": "text files", "category": "concept" },
+  "textures": { "name": "textures", "category": "concept" },
+  "canvas": {
+    "name": "canvas",
+    "category": "library/framework",
+    "written_in": ["html"]
+  },
+  "server side": { "name": "server side", "category": "concept" },
+  "db2": { "name": "db2", "category": "software program" },
+  "crystal reports": {
+    "name": "crystal reports",
+    "category": "software program"
+  },
+  "sqlite": { "name": "sqlite", "category": "software program" },
+  "yahoo boss": { "name": "yahoo boss", "category": "service" },
+  "nginx": { "name": "nginx", "category": "software program" },
+  "react native": {
+    "name": "react native",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "saml": { "name": "saml", "category": "standard/protocol" },
+  "textview": { "name": "textview", "category": "concept" },
+  "initialization": { "name": "initialization", "category": "concept" },
+  "aggregation": { "name": "aggregation", "category": "concept" },
+  "firebase": { "name": "firebase", "category": "service" },
+  "gitlab": { "name": "gitlab", "category": "service" },
+  "bots": { "name": "bots", "category": "concept" },
+  "3d modelling": { "name": "3d modelling", "category": "concept" },
+  "asp.net mvc": {
+    "name": "asp.net mvc",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "rendering": { "name": "rendering", "category": "concept" },
+  "msi patch": { "name": "msi patch", "category": "concept" },
+  "amazon emr": { "name": "amazon emr", "category": "service" },
+  "sudo": { "name": "sudo", "category": "concept" },
+  "warnings": { "name": "warnings", "category": "concept" },
+  "emulation": { "name": "emulation", "category": "concept" },
+  "windows vista": { "name": "windows vista", "category": "operating system" },
+  "jdbc": {
+    "name": "jdbc",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "smtp": { "name": "smtp", "category": "standard/protocol" },
+  "bitcoin": { "name": "bitcoin", "category": "skip" },
+  "merge": { "name": "merge", "category": "concept" },
+  "typeerror": { "name": "typeerror", "category": "concept" },
+  "dependency injection": {
+    "name": "dependency injection",
+    "category": "concept"
+  },
+  "data manipulation": { "name": "data manipulation", "category": "concept" },
+  "tabs": { "name": "tabs", "category": "concept" },
+  "jvm": { "name": "jvm", "category": "runtime" },
+  "fonts": { "name": "fonts", "category": "concept" },
+  "code analysis": { "name": "code analysis", "category": "concept" },
+  "vim": { "name": "vim", "category": "software program" },
+  "variant": { "name": "variant", "category": "concept" },
+  "enums": { "name": "enums", "category": "concept" },
+  "asp.net core": {
+    "name": "asp.net core",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "plot": { "name": "plot", "category": "concept" },
+  "sms": { "name": "sms", "category": "concept" },
+  "dos": { "name": "dos", "category": "operating system" },
+  "selector": { "name": "selector", "category": "concept" },
+  "localhost": { "name": "localhost", "category": "concept" },
+  "x86": { "name": "x86", "category": "technology" },
+  "icalendar": { "name": "icalendar", "category": "software program" },
+  "padding": { "name": "padding", "category": "concept" },
+  "amazon cloudformation": {
+    "name": "amazon cloudformation",
+    "category": "service"
+  },
+  "salt": { "name": "salt", "category": "software program" },
+  "distributed computing": {
+    "name": "distributed computing",
+    "category": "concept"
+  },
+  "fpga": { "name": "fpga", "category": "technology" },
+  "wrapper": { "name": "wrapper", "category": "concept" },
+  "cmd": { "name": "cmd", "category": "concept" },
+  "servlets": { "name": "servlets", "category": "concept" },
+  "java 8": { "name": "java 8", "category": "language" },
+  "split": { "name": "split", "category": "concept" },
+  "visual studio code": {
+    "name": "visual studio code",
+    "category": "software program"
+  },
+  "paint": { "name": "paint", "category": "software program" },
+  "skype": { "name": "skype", "category": "software program" },
+  "overriding": { "name": "overriding", "category": "concept" },
+  "synchronization": { "name": "synchronization", "category": "concept" },
+  "flask": {
+    "name": "flask",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "uml": { "name": "uml", "category": "language" },
+  "clone": { "name": "clone", "category": "concept" },
+  "fragment": { "name": "fragment", "category": "concept" },
+  "wiki": { "name": "wiki", "category": "concept" },
+  "continuous deployment": {
+    "name": "continuous deployment",
+    "category": "concept"
+  },
+  "adobe indesign": {
+    "name": "adobe indesign",
+    "category": "software program"
+  },
+  "ip address": { "name": "ip address", "category": "concept" },
+  "feed": { "name": "feed", "category": "concept" },
+  "cursor": { "name": "cursor", "category": "concept" },
+  "equation": { "name": "equation", "category": "concept" },
+  "cvs": { "name": "cvs", "category": "software program" },
+  "usb": { "name": "usb", "category": "technology" },
+  "single page application": {
+    "name": "single page application",
+    "category": "concept"
+  },
+  "linq": {
+    "name": "linq",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "functional programming": {
+    "name": "functional programming",
+    "category": "concept"
+  },
+  "pip": { "name": "pip", "category": "package manager" },
+  "apex": { "name": "apex", "category": "company" },
+  "solaris": { "name": "solaris", "category": "operating system" },
+  "arraylist": { "name": "arraylist", "category": "concept" },
+  "timestamp": { "name": "timestamp", "category": "concept" },
+  "client side": { "name": "client side", "category": "concept" },
+  "slack": { "name": "slack", "category": "software program" },
+  "batch file": { "name": "batch file", "category": "concept" },
+  "amazon ecs": { "name": "amazon ecs", "category": "service" },
+  "functional testing": { "name": "functional testing", "category": "concept" },
+  "rhel": { "name": "rhel", "category": "operating system" },
+  "64 bit": { "name": "64 bit", "category": "concept" },
+  "jboss": { "name": "jboss", "category": "software program" },
+  "rubygems": { "name": "rubygems", "category": "package manager" },
+  "cluster analysis": { "name": "cluster analysis", "category": "concept" },
+  "informatica": { "name": "informatica", "category": "company" },
+  "image processing": { "name": "image processing", "category": "concept" },
+  "orm": { "name": "orm", "category": "concept" },
+  "axis": { "name": "axis", "category": "concept" },
+  "compression": { "name": "compression", "category": "concept" },
+  "explorer": { "name": "explorer", "category": "concept" },
+  "logfile": { "name": "logfile", "category": "concept" },
+  "gpu": { "name": "gpu", "category": "technology" },
+  "helper": { "name": "helper", "category": "concept" },
+  "groovy": { "name": "groovy", "category": "language" },
+  "3ds": { "name": "3ds", "category": "software program" },
+  "screenshot": { "name": "screenshot", "category": "concept" },
+  "teradata": { "name": "teradata", "category": "company" },
+  "save": { "name": "save", "category": "concept" },
+  "hook": { "name": "hook", "category": "concept" },
+  "business process management": {
+    "name": "business process management",
+    "category": "concept"
+  },
+  "html table": { "name": "html table", "category": "concept" },
+  "memory management": { "name": "memory management", "category": "concept" },
+  "curl": { "name": "curl", "category": "concept" },
+  "tuples": { "name": "tuples", "category": "concept" },
+  "binding": { "name": "binding", "category": "concept" },
+  "grep": { "name": "grep", "category": "concept" },
+  "data migration": { "name": "data migration", "category": "concept" },
+  "ipv6": { "name": "ipv6", "category": "standard/protocol" },
+  "arcgis": { "name": "arcgis", "category": "standard/protocol" },
+  "hana": { "name": "hana", "category": "software program" },
+  "io": { "name": "io", "category": "concept" },
+  "primary key": { "name": "primary key", "category": "concept" },
+  "symbols": { "name": "symbols", "category": "concept" },
+  "jpa": {
+    "name": "jpa",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "ant": { "name": "ant", "category": "software program" },
+  "postman": { "name": "postman", "category": "software program" },
+  "decimal": { "name": "decimal", "category": "concept" },
+  "phrase": { "name": "phrase", "category": "concept" },
+  "google adwords": { "name": "google adwords", "category": "service" },
+  "safari": { "name": "safari", "category": "software program" },
+  "keras": {
+    "name": "keras",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "graphql": { "name": "graphql", "category": "language" },
+  "javabeans": {
+    "name": "javabeans",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "time series": { "name": "time series", "category": "concept" },
+  "recursion": { "name": "recursion", "category": "concept" },
+  "blender": { "name": "blender", "category": "software program" },
+  "bioinformatics": { "name": "bioinformatics", "category": "concept" },
+  "spring mvc": {
+    "name": "spring mvc",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "pom.xml": { "name": "pom.xml", "category": "concept" },
+  "for loop": { "name": "for loop", "category": "concept" },
+  "bucket": { "name": "bucket", "category": "concept" },
+  "timer": { "name": "timer", "category": "concept" },
+  "gmail": { "name": "gmail", "category": "service" },
+  "powerpc": { "name": "powerpc", "category": "technology" },
+  "overflow": { "name": "overflow", "category": "concept" },
+  "stack overflow": { "name": "stack overflow", "category": "company" },
+  "ref": { "name": "ref", "category": "concept" },
+  "sonarqube": { "name": "sonarqube", "category": "software program" },
+  "shopify": { "name": "shopify", "category": "company" },
+  "redirect": { "name": "redirect", "category": "concept" },
+  "manifest": { "name": "manifest", "category": "concept" },
+  "if statement": { "name": "if statement", "category": "concept" },
+  "mdm": { "name": "mdm", "category": "concept" },
+  "popup": { "name": "popup", "category": "concept" },
+  "http status code 404": {
+    "name": "http status code 404",
+    "category": "concept"
+  },
+  "primitive": { "name": "primitive", "category": "concept" },
+  "flutter": {
+    "name": "flutter",
+    "category": "library/framework",
+    "written_in": ["dart"]
+  },
+  "ls": { "name": "ls", "category": "concept" },
+  "alias": { "name": "alias", "category": "concept" },
+  "snmp": { "name": "snmp", "category": "standard/protocol" },
+  "ram": { "name": "ram", "category": "technology" },
+  "openshift": { "name": "openshift", "category": "software program" },
+  "dll": { "name": "dll", "category": "file format" },
+  "powerbi": { "name": "powerbi", "category": "software program" },
+  "hbase": { "name": "hbase", "category": "software program" },
+  "xss": { "name": "xss", "category": "concept" },
+  "openstack": { "name": "openstack", "category": "software program" },
+  "casting": { "name": "casting", "category": "concept" },
+  "crud": { "name": "crud", "category": "concept" },
+  "sql order by": { "name": "sql order by", "category": "concept" },
+  "paypal": { "name": "paypal", "category": "company" },
+  "timeout": { "name": "timeout", "category": "concept" },
+  "parallel processing": {
+    "name": "parallel processing",
+    "category": "concept"
+  },
+  "amazon cloudwatch": { "name": "amazon cloudwatch", "category": "service" },
+  "hdfs": { "name": "hdfs", "category": "software program" },
+  "xslt": { "name": "xslt", "category": "language" },
+  "serialization": { "name": "serialization", "category": "concept" },
+  "checkbox": { "name": "checkbox", "category": "concept" },
+  "ssas": { "name": "ssas", "category": "service" },
+  "caching": { "name": "caching", "category": "concept" },
+  "pixels": { "name": "pixels", "category": "concept" },
+  "mapreduce": { "name": "mapreduce", "category": "concept" },
+  "boost": { "name": "boost", "category": "concept" },
+  "loader": { "name": "loader", "category": "concept" },
+  "makefile": { "name": "makefile", "category": "file format" },
+  "overlay": { "name": "overlay", "category": "concept" },
+  "identifier": { "name": "identifier", "category": "concept" },
+  "lookup": { "name": "lookup", "category": "concept" },
+  "responsive design": { "name": "responsive design", "category": "concept" },
+  "subset": { "name": "subset", "category": "concept" },
+  "google maps": { "name": "google maps", "category": "service" },
+  "google search": { "name": "google search", "category": "service" },
+  "neural network": { "name": "neural network", "category": "concept" },
+  "wcf": { "name": "wcf", "category": "runtime" },
+  "amazon kinesis": { "name": "amazon kinesis", "category": "service" },
+  "npm install": { "name": "npm install", "category": "concept" },
+  "caption": { "name": "caption", "category": "concept" },
+  "duplicates": { "name": "duplicates", "category": "concept" },
+  "stack trace": { "name": "stack trace", "category": "concept" },
+  "adapter": { "name": "adapter", "category": "concept" },
+  "android linearlayout": {
+    "name": "android linearlayout",
+    "category": "concept"
+  },
+  "refactoring": { "name": "refactoring", "category": "concept" },
+  "heroku": { "name": "heroku", "category": "service" },
+  "gradient": { "name": "gradient", "category": "concept" },
+  "snowflake cloud data platform": {
+    "name": "snowflake cloud data platform",
+    "category": "service"
+  },
+  "kill": { "name": "kill", "category": "concept" },
+  "compiler errors": { "name": "compiler errors", "category": "concept" },
+  "jms": { "name": "jms", "category": "standard/protocol" },
+  "d3.js": {
+    "name": "d3.js",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "byte order mark": { "name": "byte order mark", "category": "concept" },
+  "yaml": { "name": "yaml", "category": "file format" },
+  "spss": { "name": "spss", "category": "software program" },
+  "ssms": { "name": "ssms", "category": "software program" },
+  "visual c++": { "name": "visual c++", "category": "software program" },
+  "acrobat": { "name": "acrobat", "category": "software program" },
+  "yahoo": { "name": "yahoo", "category": "company" },
+  "augmented reality": { "name": "augmented reality", "category": "concept" },
+  "params": { "name": "params", "category": "concept" },
+  "cognos": { "name": "cognos", "category": "service" },
+  "winforms": {
+    "name": "winforms",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "bind": { "name": "bind", "category": "concept" },
+  "jasmine": {
+    "name": "jasmine",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "has many": { "name": "has many", "category": "concept" },
+  "async await": { "name": "async await", "category": "concept" },
+  "jupyter": { "name": "jupyter", "category": "company" },
+  "homebrew": { "name": "homebrew", "category": "package manager" },
+  "swing": {
+    "name": "swing",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "toolbar": { "name": "toolbar", "category": "concept" },
+  "snapshot": { "name": "snapshot", "category": "concept" },
+  "weblogic": { "name": "weblogic", "category": "software program" },
+  "heap": { "name": "heap", "category": "concept" },
+  "encoding": { "name": "encoding", "category": "concept" },
+  "sql insert": { "name": "sql insert", "category": "concept" },
+  "bamboo": { "name": "bamboo", "category": "software program" },
+  "filesystems": { "name": "filesystems", "category": "concept" },
+  "opencv": {
+    "name": "opencv",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "diff": { "name": "diff", "category": "concept" },
+  "footer": { "name": "footer", "category": "concept" },
+  "uri": { "name": "uri", "category": "concept" },
+  "immutability": { "name": "immutability", "category": "concept" },
+  "jupyter notebook": {
+    "name": "jupyter notebook",
+    "category": "software program"
+  },
+  "iterator": { "name": "iterator", "category": "concept" },
+  "directory structure": {
+    "name": "directory structure",
+    "category": "concept"
+  },
+  "sql injection": { "name": "sql injection", "category": "concept" },
+  "labview": { "name": "labview", "category": "software program" },
+  "mask": { "name": "mask", "category": "concept" },
+  "breakpoints": { "name": "breakpoints", "category": "concept" },
+  "drupal": {
+    "name": "drupal",
+    "category": "library/framework",
+    "written_in": ["php"]
+  },
+  "kibana": { "name": "kibana", "category": "software program" },
+  "worksheet": { "name": "worksheet", "category": "concept" },
+  "pid": { "name": "pid", "category": "concept" },
+  "automatic ref counting": {
+    "name": "automatic ref counting",
+    "category": "concept"
+  },
+  "slice": { "name": "slice", "category": "concept" },
+  "file io": { "name": "file io", "category": "concept" },
+  "fetch": { "name": "fetch", "category": "concept" },
+  "literals": { "name": "literals", "category": "concept" },
+  "android edittext": { "name": "android edittext", "category": "concept" },
+  "group by": { "name": "group by", "category": "concept" },
+  "javascript framework": {
+    "name": "javascript framework",
+    "category": "concept"
+  },
+  "unicode": { "name": "unicode", "category": "standard/protocol" },
+  "realm": { "name": "realm", "category": "software program" },
+  "arduino": { "name": "arduino", "category": "technology" },
+  "api design": { "name": "api design", "category": "concept" },
+  "amazon sqs": { "name": "amazon sqs", "category": "service" },
+  "actor": { "name": "actor", "category": "concept" },
+  "cjk": { "name": "cjk", "category": "concept" },
+  "sandbox": { "name": "sandbox", "category": "concept" },
+  "amazon ses": { "name": "amazon ses", "category": "service" },
+  "pytorch": {
+    "name": "pytorch",
+    "category": "library/framework",
+    "written_in": ["c++"]
+  },
+  "uitableview": { "name": "uitableview", "category": "concept" },
+  "blogger": { "name": "blogger", "category": "concept" },
+  "classpath": { "name": "classpath", "category": "concept" },
+  "replace": { "name": "replace", "category": "concept" },
+  "setter": { "name": "setter", "category": "concept" },
+  "bluetooth": { "name": "bluetooth", "category": "technology" },
+  "internet explorer": {
+    "name": "internet explorer",
+    "category": "software program"
+  },
+  "nav": { "name": "nav", "category": "concept" },
+  "assertion": { "name": "assertion", "category": "concept" },
+  "rabbitmq": { "name": "rabbitmq", "category": "software program" },
+  "create table": { "name": "create table", "category": "concept" },
+  "sh": { "name": "sh", "category": "concept" },
+  "prefix": { "name": "prefix", "category": "concept" },
+  "data cleaning": { "name": "data cleaning", "category": "concept" },
+  "gnu": { "name": "gnu", "category": "operating system" },
+  "imageview": { "name": "imageview", "category": "concept" },
+  "nagios": { "name": "nagios", "category": "software program" },
+  "quickbooks": { "name": "quickbooks", "category": "software program" },
+  "bdd": { "name": "bdd", "category": "concept" },
+  "vi": { "name": "vi", "category": "software program" },
+  "debian": { "name": "debian", "category": "operating system" },
+  "dump": { "name": "dump", "category": "concept" },
+  "gesture": { "name": "gesture", "category": "concept" },
+  "error handling": { "name": "error handling", "category": "concept" },
+  "listview": { "name": "listview", "category": "concept" },
+  "vbscript": { "name": "vbscript", "category": "language" },
+  "sip": { "name": "sip", "category": "standard/protocol" },
+  "svg": { "name": "svg", "category": "file format" },
+  "observable": { "name": "observable", "category": "concept" },
+  "wikipedia": { "name": "wikipedia", "category": "company" },
+  "blob": { "name": "blob", "category": "concept" },
+  "web hosting": { "name": "web hosting", "category": "concept" },
+  "qt": { "name": "qt", "category": "company" },
+  "jmeter": { "name": "jmeter", "category": "software program" },
+  "cross browser": { "name": "cross browser", "category": "concept" },
+  "user input": { "name": "user input", "category": "concept" },
+  "hex": { "name": "hex", "category": "concept" },
+  "default value": { "name": "default value", "category": "concept" },
+  "systems programming": {
+    "name": "systems programming",
+    "category": "concept"
+  },
+  "volatile": { "name": "volatile", "category": "concept" },
+  "airflow": {
+    "name": "airflow",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "build.gradle": { "name": "build.gradle", "category": "concept" },
+  "cross platform": { "name": "cross platform", "category": "concept" },
+  "polygon": { "name": "polygon", "category": "concept" },
+  "prometheus": { "name": "prometheus", "category": "software program" },
+  "dropdown": { "name": "dropdown", "category": "concept" },
+  "lazy evaluation": { "name": "lazy evaluation", "category": "concept" },
+  "syslog": { "name": "syslog", "category": "concept" },
+  "storyboard": { "name": "storyboard", "category": "concept" },
+  "game engine": { "name": "game engine", "category": "concept" },
+  "httprequest": { "name": "httprequest", "category": "concept" },
+  "restart": { "name": "restart", "category": "concept" },
+  "fs": { "name": "fs", "category": "concept" },
+  "command prompt": { "name": "command prompt", "category": "concept" },
+  "alexa": { "name": "alexa", "category": "service" },
+  "wizard": { "name": "wizard", "category": "software program" },
+  "offset": { "name": "offset", "category": "concept" },
+  "uiview": { "name": "uiview", "category": "concept" },
+  "multitasking": { "name": "multitasking", "category": "concept" },
+  "package.json": { "name": "package.json", "category": "file format" },
+  "babel": { "name": "babel", "category": "compiler" },
+  "rust": { "name": "rust", "category": "language" },
+  "foreign keys": { "name": "foreign keys", "category": "concept" },
+  "uber api": { "name": "uber api", "category": "service" },
+  "azure container instances": {
+    "name": "azure container instances",
+    "category": "service"
+  },
+  "linear regression": { "name": "linear regression", "category": "concept" },
+  "event handling": { "name": "event handling", "category": "concept" },
+  "c++11": { "name": "c++11", "category": "language" },
+  "visual studio 2010": {
+    "name": "visual studio 2010",
+    "category": "software program"
+  },
+  "aws lambda": { "name": "aws lambda", "category": "service" },
+  "exec": { "name": "exec", "category": "concept" },
+  "verilog": { "name": "verilog", "category": "language" },
+  "mvvm": { "name": "mvvm", "category": "concept" },
+  "textbox": { "name": "textbox", "category": "concept" },
+  "http post": { "name": "http post", "category": "standard/protocol" },
+  "nomachine nx": { "name": "nomachine nx", "category": "software program" },
+  "unsigned": { "name": "unsigned", "category": "concept" },
+  "text editor": { "name": "text editor", "category": "concept" },
+  "png": { "name": "png", "category": "file format" },
+  "spi": { "name": "spi", "category": "standard/protocol" },
+  "shader": { "name": "shader", "category": "concept" },
+  "jsfiddle": { "name": "jsfiddle", "category": "service" },
+  "composer php": { "name": "composer php", "category": "package manager" },
+  "collision": { "name": "collision", "category": "concept" },
+  "elastic stack": { "name": "elastic stack", "category": "company" },
+  "windows server 2008": {
+    "name": "windows server 2008",
+    "category": "operating system"
+  },
+  "solr": { "name": "solr", "category": "software program" },
+  "background color": { "name": "background color", "category": "concept" },
+  "objective c": { "name": "objective c", "category": "language" },
+  "enterprise architect": {
+    "name": "enterprise architect",
+    "category": "concept"
+  },
+  "error code": { "name": "error code", "category": "concept" },
+  "xaml": { "name": "xaml", "category": "language" },
+  "timezone": { "name": "timezone", "category": "concept" },
+  "remote desktop": { "name": "remote desktop", "category": "concept" },
+  "artifactory": { "name": "artifactory", "category": "package manager" },
+  "git commit": { "name": "git commit", "category": "concept" },
+  "drag and drop": { "name": "drag and drop", "category": "concept" },
+  "build automation": { "name": "build automation", "category": "concept" },
+  "linux kernel": { "name": "linux kernel", "category": "concept" },
+  "hover": { "name": "hover", "category": "concept" },
+  "subclass": { "name": "subclass", "category": "concept" },
+  "gulp": {
+    "name": "gulp",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "ionic framework": {
+    "name": "ionic framework",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "doctype": { "name": "doctype", "category": "concept" },
+  "overloading": { "name": "overloading", "category": "concept" },
+  "fatal error": { "name": "fatal error", "category": "concept" },
+  "nfs": { "name": "nfs", "category": "standard/protocol" },
+  "cron": { "name": "cron", "category": "concept" },
+  "kerberos": { "name": "kerberos", "category": "standard/protocol" },
+  "ida": { "name": "ida", "category": "concept" },
+  "xpath": { "name": "xpath", "category": "language" },
+  "google bigquery": { "name": "google bigquery", "category": "service" },
+  "vhdl": { "name": "vhdl", "category": "language" },
+  "grafana": { "name": "grafana", "category": "software program" },
+  "swagger": {
+    "name": "swagger",
+    "category": "library/framework",
+    "written_in": ["na"]
+  },
+  "selenium webdriver": {
+    "name": "selenium webdriver",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "netsuite": { "name": "netsuite", "category": "company" },
+  "vlookup": { "name": "vlookup", "category": "concept" },
+  "utc": { "name": "utc", "category": "concept" },
+  "decorator": { "name": "decorator", "category": "concept" },
+  "git push": { "name": "git push", "category": "concept" },
+  "raspberry pi": { "name": "raspberry pi", "category": "device" },
+  "mocha": {
+    "name": "mocha",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "pycharm": { "name": "pycharm", "category": "software program" },
+  "depth first search": { "name": "depth first search", "category": "concept" },
+  "jwt": { "name": "jwt", "category": "standard/protocol" },
+  "websocket": { "name": "websocket", "category": "standard/protocol" },
+  "implicit": { "name": "implicit", "category": "concept" },
+  "microcontroller": { "name": "microcontroller", "category": "concept" },
+  "ascii": { "name": "ascii", "category": "concept" },
+  "twitter bootstrap": {
+    "name": "twitter bootstrap",
+    "category": "library/framework",
+    "written_in": ["html"]
+  },
+  "generics": { "name": "generics", "category": "concept" },
+  "synchronous": { "name": "synchronous", "category": "concept" },
+  "jackson": { "name": "jackson", "category": "concept" },
+  "exception handling": { "name": "exception handling", "category": "concept" },
+  "acl": { "name": "acl", "category": "company" },
+  "microsoft teams": { "name": "microsoft teams", "category": "service" },
+  "ioexception": { "name": "ioexception", "category": "concept" },
+  "cloudera": { "name": "cloudera", "category": "company" },
+  "modifier": { "name": "modifier", "category": "concept" },
+  "virtualbox": { "name": "virtualbox", "category": "software program" },
+  "jpeg": { "name": "jpeg", "category": "file format" },
+  "winapi": {
+    "name": "winapi",
+    "category": "library/framework",
+    "written_in": ["c++"]
+  },
+  "tail": { "name": "tail", "category": "concept" },
+  "ggplot2": {
+    "name": "ggplot2",
+    "category": "library/framework",
+    "written_in": ["r"]
+  },
+  "comma": { "name": "comma", "category": "concept" },
+  "hashmap": { "name": "hashmap", "category": "concept" },
+  "aix": { "name": "aix", "category": "operating system" },
+  "enumeration": { "name": "enumeration", "category": "concept" },
+  "local variables": { "name": "local variables", "category": "concept" },
+  "locale": { "name": "locale", "category": "concept" },
+  "angle": { "name": "angle", "category": "concept" },
+  "itunes": { "name": "itunes", "category": "software program" },
+  "abap": { "name": "abap", "category": "language" },
+  "mockito": {
+    "name": "mockito",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "css selectors": { "name": "css selectors", "category": "concept" },
+  "i2c": { "name": "i2c", "category": "technology" },
+  "dockerfile": { "name": "dockerfile", "category": "file format" },
+  "electron": { "name": "electron", "category": "concept" },
+  "polymorphism": { "name": "polymorphism", "category": "concept" },
+  "dart": { "name": "dart", "category": "language" },
+  "cmake": { "name": "cmake", "category": "file format" },
+  "cdn": { "name": "cdn", "category": "concept" },
+  "syntax error": { "name": "syntax error", "category": "concept" },
+  "push notification": { "name": "push notification", "category": "concept" },
+  "onedrive": { "name": "onedrive", "category": "service" },
+  "rxjs": {
+    "name": "rxjs",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "logistic regression": {
+    "name": "logistic regression",
+    "category": "concept"
+  },
+  "xamarin": {
+    "name": "xamarin",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "web config": { "name": "web config", "category": "concept" },
+  "register transfer level": {
+    "name": "register transfer level",
+    "category": "concept"
+  },
+  "handle": { "name": "handle", "category": "concept" },
+  "windows server 2012": {
+    "name": "windows server 2012",
+    "category": "operating system"
+  },
+  "onclick": { "name": "onclick", "category": "concept" },
+  "oauth 2.0": { "name": "oauth 2.0", "category": "standard/protocol" },
+  "versioning": { "name": "versioning", "category": "concept" },
+  "styling": { "name": "styling", "category": "concept" },
+  "bootstrap 4": {
+    "name": "bootstrap 4",
+    "category": "library/framework",
+    "written_in": ["html"]
+  },
+  "cordova": {
+    "name": "cordova",
+    "category": "library/framework",
+    "written_in": ["html"]
+  },
+  "google docs": { "name": "google docs", "category": "service" },
+  "abstract class": { "name": "abstract class", "category": "concept" },
+  "oracle sqldeveloper": {
+    "name": "oracle sqldeveloper",
+    "category": "concept"
+  },
+  "subdirectory": { "name": "subdirectory", "category": "concept" },
+  "cgi": { "name": "cgi", "category": "concept" },
+  "build process": { "name": "build process", "category": "concept" },
+  "slider": { "name": "slider", "category": "concept" },
+  "azure active directory": {
+    "name": "azure active directory",
+    "category": "service"
+  },
+  "razor": { "name": "razor", "category": "device" },
+  "openssl": {
+    "name": "openssl",
+    "category": "library/framework",
+    "written_in": ["c"]
+  },
+  "return value": { "name": "return value", "category": "concept" },
+  "cross domain": { "name": "cross domain", "category": "concept" },
+  "python 2.7": { "name": "python 2.7", "category": "language" },
+  "importerror": { "name": "importerror", "category": "concept" },
+  "iframe": { "name": "iframe", "category": "concept" },
+  "increment": { "name": "increment", "category": "concept" },
+  "daemon": { "name": "daemon", "category": "concept" },
+  "paste": { "name": "paste", "category": "concept" },
+  "pyspark": {
+    "name": "pyspark",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "keyboard shortcuts": { "name": "keyboard shortcuts", "category": "concept" },
+  "data binding": { "name": "data binding", "category": "concept" },
+  "adb": { "name": "adb", "category": "software program" },
+  "hard drive": { "name": "hard drive", "category": "concept" },
+  "uninstallation": { "name": "uninstallation", "category": "concept" },
+  "markdown": { "name": "markdown", "category": "concept" },
+  "nvidia": { "name": "nvidia", "category": "company" },
+  "android recyclerview": {
+    "name": "android recyclerview",
+    "category": "concept"
+  },
+  "prism": { "name": "prism", "category": "software program" },
+  "distributed system": { "name": "distributed system", "category": "concept" },
+  "msdn": { "name": "msdn", "category": "company" },
+  "nuget": { "name": "nuget", "category": "package manager" },
+  "visualforce": {
+    "name": "visualforce",
+    "category": "library/framework",
+    "written_in": ["na"]
+  },
+  "yarn": { "name": "yarn", "category": "package manager" },
+  "sftp": { "name": "sftp", "category": "standard/protocol" },
+  "vagrant": { "name": "vagrant", "category": "software program" },
+  "linker": { "name": "linker", "category": "concept" },
+  "stdin": { "name": "stdin", "category": "concept" },
+  "system.reactive": { "name": "system.reactive", "category": "concept" },
+  "bitmap": { "name": "bitmap", "category": "concept" },
+  "stylesheet": { "name": "stylesheet", "category": "concept" },
+  "xmlhttprequest": { "name": "xmlhttprequest", "category": "concept" },
+  "circular dependency": {
+    "name": "circular dependency",
+    "category": "concept"
+  },
+  "karma runner": {
+    "name": "karma runner",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "cuda": { "name": "cuda", "category": "technology" },
+  "cas": { "name": "cas", "category": "concept" },
+  "aes": { "name": "aes", "category": "concept" },
+  "xhtml": { "name": "xhtml", "category": "language" },
+  "static classes": { "name": "static classes", "category": "concept" },
+  "database performance": {
+    "name": "database performance",
+    "category": "concept"
+  },
+  "okta": { "name": "okta", "category": "company" },
+  "retrofit": { "name": "retrofit", "category": "concept" },
+  "hpc": { "name": "hpc", "category": "concept" },
+  "mocking": { "name": "mocking", "category": "concept" },
+  "find": { "name": "find", "category": "concept" },
+  "csrf": { "name": "csrf", "category": "concept" },
+  "function call": { "name": "function call", "category": "concept" },
+  "whitespace": { "name": "whitespace", "category": "concept" },
+  "uikit": {
+    "name": "uikit",
+    "category": "library/framework",
+    "written_in": ["objective c"]
+  },
+  "sql server 2008": {
+    "name": "sql server 2008",
+    "category": "software program"
+  },
+  "working directory": { "name": "working directory", "category": "concept" },
+  "readonly": { "name": "readonly", "category": "concept" },
+  "static analysis": { "name": "static analysis", "category": "concept" },
+  "configuration files": {
+    "name": "configuration files",
+    "category": "concept"
+  },
+  "pane": { "name": "pane", "category": "concept" },
+  "visual studio 2017": {
+    "name": "visual studio 2017",
+    "category": "software program"
+  },
+  "gallery": { "name": "gallery", "category": "concept" },
+  "g++": { "name": "g++", "category": "compiler" },
+  "code reuse": { "name": "code reuse", "category": "concept" },
+  "material design": {
+    "name": "material design",
+    "category": "library/framework",
+    "written_in": ["na"]
+  },
+  "ipython": { "name": "ipython", "category": "software program" },
+  "rest assured": { "name": "rest assured", "category": "concept" },
+  "cpu architecture": { "name": "cpu architecture", "category": "concept" },
+  "textarea": { "name": "textarea", "category": "concept" },
+  "dropbox": { "name": "dropbox", "category": "company" },
+  "haskell": { "name": "haskell", "category": "language" },
+  "stub": { "name": "stub", "category": "concept" },
+  "placeholder": { "name": "placeholder", "category": "concept" },
+  "reinforcement learning": {
+    "name": "reinforcement learning",
+    "category": "concept"
+  },
+  "adfs": { "name": "adfs", "category": "software program" },
+  "drawable": { "name": "drawable", "category": "concept" },
+  "nan": { "name": "nan", "category": "concept" },
+  "permission denied": { "name": "permission denied", "category": "concept" },
+  "visual studio 2015": {
+    "name": "visual studio 2015",
+    "category": "software program"
+  },
+  "shiny": {
+    "name": "shiny",
+    "category": "library/framework",
+    "written_in": ["r"]
+  },
+  "simulink": {
+    "name": "simulink",
+    "category": "library/framework",
+    "written_in": ["na"]
+  },
+  "spring security": {
+    "name": "spring security",
+    "category": "library/framework",
+    "written_in": ["java"]
+  },
+  "fork": { "name": "fork", "category": "concept" },
+  "gdb": { "name": "gdb", "category": "software program" },
+  "hyphen": { "name": "hyphen", "category": "concept" },
+  "ienumerable": { "name": "ienumerable", "category": "concept" },
+  "uiviewcontroller": { "name": "uiviewcontroller", "category": "concept" },
+  "client server": { "name": "client server", "category": "concept" },
+  "base64": { "name": "base64", "category": "standard/protocol" },
+  "sybase": { "name": "sybase", "category": "company" },
+  "singleton": { "name": "singleton", "category": "concept" },
+  "newline": { "name": "newline", "category": "concept" },
+  "soapui": { "name": "soapui", "category": "software program" },
+  "inversion of control": {
+    "name": "inversion of control",
+    "category": "concept"
+  },
+  "partition": { "name": "partition", "category": "concept" },
+  "rule engine": { "name": "rule engine", "category": "concept" },
+  "amazon cloudfront": { "name": "amazon cloudfront", "category": "service" },
+  "playlist": { "name": "playlist", "category": "concept" },
+  "ethereum": { "name": "ethereum", "category": "concept" },
+  "semantics": { "name": "semantics", "category": "concept" },
+  "chatbot": { "name": "chatbot", "category": "concept" },
+  "adobe analytics": { "name": "adobe analytics", "category": "service" },
+  "legend": { "name": "legend", "category": "concept" },
+  "vps": { "name": "vps", "category": "concept" },
+  "encapsulation": { "name": "encapsulation", "category": "concept" },
+  "gruntjs": {
+    "name": "gruntjs",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "anaconda": { "name": "anaconda", "category": "package manager" },
+  "google drive api": { "name": "google drive api", "category": "service" },
+  "escaping": { "name": "escaping", "category": "concept" },
+  "private key": { "name": "private key", "category": "concept" },
+  "olap": { "name": "olap", "category": "concept" },
+  "stdout": { "name": "stdout", "category": "concept" },
+  "drop down menu": { "name": "drop down menu", "category": "concept" },
+  "drag": { "name": "drag", "category": "concept" },
+  "office365": { "name": "office365", "category": "software program" },
+  "marker": { "name": "marker", "category": "concept" },
+  "git pull": { "name": "git pull", "category": "concept" },
+  "firebug": { "name": "firebug", "category": "concept" },
+  "windows 8": { "name": "windows 8", "category": "operating system" },
+  "netbeans": { "name": "netbeans", "category": "software program" },
+  "scipy": {
+    "name": "scipy",
+    "category": "library/framework",
+    "written_in": ["python"]
+  },
+  "perforce": { "name": "perforce", "category": "company" },
+  "whatsapp": { "name": "whatsapp", "category": "company" },
+  "jsf": { "name": "jsf", "category": "standard/protocol" },
+  "stata": { "name": "stata", "category": "software program" },
+  "awk": { "name": "awk", "category": "language" },
+  "cout": { "name": "cout", "category": "concept" },
+  "cakephp": {
+    "name": "cakephp",
+    "category": "library/framework",
+    "written_in": ["php"]
+  },
+  "atomic": { "name": "atomic", "category": "concept" },
+  "bcp": { "name": "bcp", "category": "concept" },
+  "exchange server": { "name": "exchange server", "category": "service" },
+  "magento": {
+    "name": "magento",
+    "category": "library/framework",
+    "written_in": ["php"]
+  },
+  "knockout.js": {
+    "name": "knockout.js",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "mozilla": { "name": "mozilla", "category": "company" },
+  "axapta": { "name": "axapta", "category": "software program" },
+  "logstash": { "name": "logstash", "category": "software program" },
+  "xsd": { "name": "xsd", "category": "standard/protocol" },
+  "logcat": {
+    "name": "logcat",
+    "category": "library/framework",
+    "written_in": ["na"]
+  },
+  "nunit": {
+    "name": "nunit",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "blocking": { "name": "blocking", "category": "concept" },
+  "ipc": { "name": "ipc", "category": "concept" },
+  "console.log": { "name": "console.log", "category": "concept" },
+  "httpclient": {
+    "name": "httpclient",
+    "category": "library/framework",
+    "written_in": ["c#"]
+  },
+  "laravel 5": {
+    "name": "laravel 5",
+    "category": "library/framework",
+    "written_in": ["php"]
+  },
+  "linear algebra": { "name": "linear algebra", "category": "concept" },
+  "information retrieval": {
+    "name": "information retrieval",
+    "category": "concept"
+  },
+  "windows services": { "name": "windows services", "category": "concept" },
+  "indentation": { "name": "indentation", "category": "concept" },
+  "ember.js": {
+    "name": "ember.js",
+    "category": "library/framework",
+    "written_in": ["javascript"]
+  },
+  "ssl certificate": {
+    "name": "ssl certificate",
+    "category": "standard/protocol"
+  },
+  "tabular": { "name": "tabular", "category": "concept" },
+  "android relativelayout": {
+    "name": "android relativelayout",
+    "category": "concept"
+  },
+  "dst": { "name": "dst", "category": "concept" },
+  "remote server": { "name": "remote server", "category": "concept" },
+  "jquery animate": { "name": "jquery animate", "category": "concept" },
+  "codec": { "name": "codec", "category": "concept" },
+  "google apps": { "name": "google apps", "category": "service" },
+  "virtualenv": { "name": "virtualenv", "category": "software program" },
+  "hyperlink": { "name": "hyperlink", "category": "concept" },
+  "tcl": { "name": "tcl", "category": "concept" },
+  "webserver": { "name": "webserver", "category": "concept" },
+  "mongoose": {
+    "name": "mongoose",
+    "category": "library/framework",
+    "written_in": ["javascriptaws sdk", "c++"]
+  },
+  "git clone": { "name": "git clone", "category": "concept" },
+  "desktop application": {
+    "name": "desktop application",
+    "category": "concept"
+  },
+  "cors": { "name": "cors", "category": "standard/protocol" },
+  "p2p": { "name": "p2p", "category": "concept" },
+  "amazon elastic beanstalk": {
+    "name": "amazon elastic beanstalk",
+    "category": "service"
+  },
+  "amazon sagemaker": { "name": "amazon sagemaker", "category": "service" },
+  "aws cli": { "name": "aws cli", "category": "software program" },
+  "amazon fire tv": { "name": "amazon fire tv", "category": "device" },
+  "amazon ami": { "name": "amazon ami", "category": "service" },
+  "amazon ecr": { "name": "amazon ecr", "category": "service" },
+  "amazon cognito": { "name": "amazon cognito", "category": "service" },
+  "aws glue": { "name": "aws glue", "category": "service" },
+  "amazon vpc": { "name": "amazon vpc", "category": "service" },
+  "aws sdk": {
+    "name": "aws sdk",
+    "category": "library/framework",
+    "written_in": ["ruby"]
+  },
+  "aws api gateway": { "name": "aws api gateway", "category": "service" },
+  "amazon sns": { "name": "amazon sns", "category": "service" },
+  "amazon api": { "name": "amazon api", "category": "service" },
+  "amazon elb": { "name": "amazon elb", "category": "service" },
+  "amazon athena": { "name": "amazon athena", "category": "service" },
+  "aws amplify": { "name": "aws amplify", "category": "service" },
+  "aws opsworks": { "name": "aws opsworks", "category": "service" },
+  "aws kms": { "name": "aws kms", "category": "service" },
+  "amazon mws": { "name": "amazon mws", "category": "service" },
+  "amazon pay": { "name": "amazon pay", "category": "service" },
+  "amazon simpledb": { "name": "amazon simpledb", "category": "service" },
+  "aws appsync": { "name": "aws appsync", "category": "service" },
+  "aws sts": { "name": "aws sts", "category": "service" },
+  "aws device farm": { "name": "aws device farm", "category": "service" },
+  "amazon route53": { "name": "amazon route53", "category": "service" },
+  "aws sam cli": { "name": "aws sam cli", "category": "software program" },
+  "dplyr": { "name": "dplyr", "category": "library/framework" },
+  "tidyverse": { "name": "tidyverse", "category": "package manager" },
+  "seaborn": { "name": "seaborn", "category": "library/framework" },
+  "pca": { "name": "pca", "category": "concept" },
+  "stringr": { "name": "stringr", "category": "library/framework" },
+  "igraph": { "name": "igraph", "category": "library/framework" },
+  "missing data": { "name": "missing data", "category": "concept" },
+  "text mining": { "name": "text mining", "category": "concept" },
+  "purrr": { "name": "purrr", "category": "library/framework" },
+  "data.table": { "name": "data.table", "category": "library/framework" },
+  "sentiment analysis": { "name": "sentiment analysis", "category": "concept" },
+  "bayesian": { "name": "bayesian", "category": "concept" },
+  "tidyr": { "name": "tidyr", "category": "library/framework" },
+  "lubridate": { "name": "lubridate", "category": "library/framework" },
+  "window functions": { "name": "window functions", "category": "concept" },
+  "similarity": { "name": "similarity", "category": "concept" },
+  "scikit learn": { "name": "scikit learn", "category": "library/framework" },
+  "wordpress gutenberg": {
+    "name": "wordpress gutenberg",
+    "category": "concept"
+  },
+  "python imaging library": {
+    "name": "python imaging library",
+    "category": "library/framework"
+  },
+  "subquery": { "name": "subquery", "category": "concept" },
+  "preprocessor": { "name": "preprocessor", "category": "concept" },
+  "nltk": { "name": "nltk", "category": "library/framework" },
+  "spotify": { "name": "spotify", "category": "company" },
+  "hierarchical clustering": {
+    "name": "hierarchical clustering",
+    "category": "concept"
+  },
+  "statsmodels": { "name": "statsmodels", "category": "library/framework" },
+  "svm": { "name": "svm", "category": "concept" },
+  "xgboost": { "name": "xgboost", "category": "concept" },
+  "categorical data": { "name": "categorical data", "category": "concept" },
+  "r markdown": { "name": "r markdown", "category": "concept" },
+  "xts": { "name": "xts", "category": "concept" },
+  "networkx": { "name": "networkx", "category": "library/framework" },
+  "beautifulsoup": { "name": "beautifulsoup", "category": "library/framework" },
+  "grouping": { "name": "grouping", "category": "concept" },
+  "bokeh": { "name": "bokeh", "category": "library/framework" },
+  "conda": { "name": "conda", "category": "package manager" },
+  "conditional formatting": {
+    "name": "conditional formatting",
+    "category": "concept"
+  },
+  "embedding": { "name": "embedding", "category": "concept" },
+  "emoji": { "name": "emoji", "category": "concept" },
+  "geopandas": { "name": "geopandas", "category": "library/framework" },
+  "lattice": { "name": "lattice", "category": "concept" },
+  "leaflet": { "name": "leaflet", "category": "library/framework" },
+  "mnist": { "name": "mnist", "category": "concept" },
+  "plotly": { "name": "plotly", "category": "library/framework" },
+  "polling": { "name": "polling", "category": "concept" },
+  "query performance": { "name": "query performance", "category": "concept" },
+  "random forest": { "name": "random forest", "category": "concept" },
+  "raster": { "name": "raster", "category": "concept" },
+  "spacy": { "name": "spacy", "category": "library/framework" },
+  "tiles": { "name": "tiles", "category": "concept" },
+  "web scraping": { "name": "web scraping", "category": "concept" },
+  "inner join": { "name": "inner join", "category": "concept" },
+  "operator precedence": {
+    "name": "operator precedence",
+    "category": "concept"
+  },
+  "image recognition": { "name": "image recognition", "category": "concept" },
+  "hierarchical data": { "name": "hierarchical data", "category": "concept" },
+  "h2o": { "name": "h2o", "category": "company" },
+  "permutation": { "name": "permutation", "category": "concept" },
+  "phone call": { "name": "phone call", "category": "concept" },
+  "pos tagger": { "name": "pos tagger", "category": "concept" },
+  "predicate": { "name": "predicate", "category": "concept" },
+  "glm": { "name": "glm", "category": "concept" },
+  "ghost blog": { "name": "ghost blog", "category": "concept" },
+  "geolocation": { "name": "geolocation", "category": "concept" },
+  "geojson": { "name": "geojson", "category": "file format" },
+  "pytest": { "name": "pytest", "category": "library/framework" },
+  "gdata": { "name": "gdata", "category": "standard/protocol" },
+  "gaussian": { "name": "gaussian", "category": "concept" },
+  "qgis": { "name": "qgis", "category": "software program" },
+  "form for": { "name": "form for", "category": "concept" },
+  "bar chart": { "name": "bar chart", "category": "concept" },
+  "rcpp": { "name": "rcpp", "category": "library/framework" },
+  "feature extraction": { "name": "feature extraction", "category": "concept" },
+  "factorial": { "name": "factorial", "category": "concept" },
+  "resize": { "name": "resize", "category": "concept" },
+  "zombie process": { "name": "zombie process", "category": "concept" },
+  "facebook messenger": {
+    "name": "facebook messenger",
+    "category": "software program"
+  },
+  "ehcache bigmemory": { "name": "ehcache bigmemory", "category": "skip" },
+  "rstudio": { "name": "rstudio", "category": "software program" },
+  "rvest": { "name": "rvest", "category": "library/framework" },
+  "scatter plot": { "name": "scatter plot", "category": "concept" },
+  "scrapy": { "name": "scrapy", "category": "library/framework" },
+  "screen scraping": { "name": "screen scraping", "category": "concept" },
+  "dax": { "name": "dax", "category": "language" },
+  "zoo": { "name": "zoo", "category": "concept" },
+  "shapefile": { "name": "shapefile", "category": "file format" },
+  "shinydashboard": {
+    "name": "shinydashboard",
+    "category": "library/framework"
+  },
+  "dask": { "name": "dask", "category": "library/framework" },
+  "slick": { "name": "slick", "category": "library/framework" },
+  "autocomplete": { "name": "autocomplete", "category": "concept" },
+  "crop": { "name": "crop", "category": "concept" },
+  "sqlalchemy": { "name": "sqlalchemy", "category": "library/framework" },
+  "azure storage": { "name": "azure storage", "category": "service" },
+  "azure sql database": { "name": "azure sql database", "category": "service" },
+  "sql server 2012": {
+    "name": "sql server 2012",
+    "category": "software program"
+  },
+  "sql server 2016": {
+    "name": "sql server 2016",
+    "category": "software program"
+  },
+  "azure virtual machine": {
+    "name": "azure virtual machine",
+    "category": "service"
+  },
+  "azure resource manager": {
+    "name": "azure resource manager",
+    "category": "service"
+  },
+  "open closed principle": {
+    "name": "open closed principle",
+    "category": "concept"
+  },
+  "pcap": { "name": "pcap", "category": "concept" },
+  "putty": { "name": "putty", "category": "software program" },
+  "centos7": { "name": "centos7", "category": "operating system" },
+  "telnet": { "name": "telnet", "category": "standard/protocol" },
+  "yum": { "name": "yum", "category": "package manager" },
+  "azure api management": {
+    "name": "azure api management",
+    "category": "service"
+  },
+  "azure cognitive search": {
+    "name": "azure cognitive search",
+    "category": "service"
+  },
+  "azure virtual network": {
+    "name": "azure virtual network",
+    "category": "service"
+  },
+  "azure web sites": { "name": "azure web sites", "category": "service" },
+  "event log": { "name": "event log", "category": "concept" },
+  "event viewer": { "name": "event viewer", "category": "software program" },
+  "tensor": { "name": "tensor", "category": "concept" },
+  "windows server 2012 r2": {
+    "name": "windows server 2012 r2",
+    "category": "operating system"
+  },
+  "rpm": { "name": "rpm", "category": "package manager" },
+  "tar": { "name": "tar", "category": "file format" },
+  "rsync": { "name": "rsync", "category": "concept" },
+  "tsql": { "name": "tsql", "category": "library/framework" },
+  "arm template": { "name": "arm template", "category": "concept" },
+  "control flow": { "name": "control flow", "category": "concept" },
+  "mapper": { "name": "mapper", "category": "concept" },
+  "code signing": { "name": "code signing", "category": "concept" },
+  "gnupg": { "name": "gnupg", "category": "standard/protocol" },
+  "azure powershell": {
+    "name": "azure powershell",
+    "category": "software program"
+  },
+  "azure mobile services": {
+    "name": "azure mobile services",
+    "category": "service"
+  },
+  "rdp": { "name": "rdp", "category": "standard/protocol" },
+  "sql server 2014": {
+    "name": "sql server 2014",
+    "category": "operating system"
+  },
+  "azure iot hub": { "name": "azure iot hub", "category": "service" },
+  "azure functions": { "name": "azure functions", "category": "service" },
+  "excel 2016": { "name": "excel 2016", "category": "software program" },
+  "ssh keys": { "name": "ssh keys", "category": "concept" },
+  "dynamic data": { "name": "dynamic data", "category": "concept" },
+  "azure cloud services": {
+    "name": "azure cloud services",
+    "category": "service"
+  },
+  "remote connection": { "name": "remote connection", "category": "concept" },
+  "connection string": { "name": "connection string", "category": "concept" },
+  "autoscaling": { "name": "autoscaling", "category": "concept" },
+  "windows server 2008 r2": {
+    "name": "windows server 2008 r2",
+    "category": "operating system"
+  },
+  "pattern matching": { "name": "pattern matching", "category": "concept" },
+  "php 7": { "name": "php 7", "category": "language" },
+  "pivot table": { "name": "pivot table", "category": "concept" },
+  "plsql": { "name": "plsql", "category": "library/framework" },
+  "aem": { "name": "aem", "category": "skip" },
+  "conditional operator": {
+    "name": "conditional operator",
+    "category": "concept"
+  },
+  "combinatorics": { "name": "combinatorics", "category": "concept" },
+  "python module": { "name": "python module", "category": "concept" },
+  "qtp": { "name": "qtp", "category": "library/framework" },
+  "query optimization": { "name": "query optimization", "category": "concept" },
+  "windows store": { "name": "windows store", "category": "software program" },
+  "resource files": { "name": "resource files", "category": "concept" },
+  "bundling and minification": {
+    "name": "bundling and minification",
+    "category": "concept"
+  },
+  "buffer overflow": { "name": "buffer overflow", "category": "concept" },
+  "scala collections": { "name": "scala collections", "category": "concept" },
+  "ado.net": { "name": "ado.net", "category": "library/framework" },
+  "scp": { "name": "scp", "category": "standard/protocol" },
+  "servicepacks": { "name": "servicepacks", "category": "concept" },
+  "sha1": { "name": "sha1", "category": "concept" },
+  "sharepoint online": { "name": "sharepoint online", "category": "service" },
+  "azure table storage": {
+    "name": "azure table storage",
+    "category": "service"
+  },
+  "azure machine learning service": {
+    "name": "azure machine learning service",
+    "category": "service"
+  },
+  "azure logic apps": { "name": "azure logic apps", "category": "service" },
+  "azure data factory": { "name": "azure data factory", "category": "service" },
+  "google plus": { "name": "google plus", "category": "service" },
+  "google tag manager": { "name": "google tag manager", "category": "service" },
+  "google cloud firestore": {
+    "name": "google cloud firestore",
+    "category": "service"
+  },
+  "google kubernetes engine": {
+    "name": "google kubernetes engine",
+    "category": "service"
+  },
+  "google compute engine": {
+    "name": "google compute engine",
+    "category": "service"
+  },
+  "google app engine": { "name": "google app engine", "category": "service" },
+  "google data studio": { "name": "google data studio", "category": "service" },
+  "google api": { "name": "google api", "category": "service" },
+  "google account": { "name": "google account", "category": "concept" },
+  "google apps script": { "name": "google apps script", "category": "service" },
+  "google cloud storage": {
+    "name": "google cloud storage",
+    "category": "service"
+  },
+  "google calendar api": {
+    "name": "google calendar api",
+    "category": "service"
+  },
+  "google play services": {
+    "name": "google play services",
+    "category": "service"
+  },
+  "google cloud functions": {
+    "name": "google cloud functions",
+    "category": "service"
+  },
+  "google cloud messaging": {
+    "name": "google cloud messaging",
+    "category": "service"
+  },
+  "google maps api 3": { "name": "google maps api 3", "category": "service" },
+  "googletest": { "name": "googletest", "category": "library/framework" },
+  "google chrome extension": {
+    "name": "google chrome extension",
+    "category": "software program"
+  },
+  "google chrome os": {
+    "name": "google chrome os",
+    "category": "operating system"
+  },
+  "google translate": { "name": "google translate", "category": "service" },
+  "google visualization": {
+    "name": "google visualization",
+    "category": "service"
+  },
+  "google cloud sql": { "name": "google cloud sql", "category": "service" },
+  "google form": { "name": "google form", "category": "service" },
+  "google places api": { "name": "google places api", "category": "service" },
+  "google colaboratory": {
+    "name": "google colaboratory",
+    "category": "service"
+  },
+  "google play console": {
+    "name": "google play console",
+    "category": "software program"
+  },
+  "google login": { "name": "google login", "category": "concept" },
+  "google oauth": { "name": "google oauth", "category": "service" },
+  "google ad manager": { "name": "google ad manager", "category": "service" },
+  "google street view": {
+    "name": "google street view",
+    "category": "software program"
+  },
+  "google glass": { "name": "google glass", "category": "device" },
+  "google contacts api": {
+    "name": "google contacts api",
+    "category": "service"
+  },
+  "google cloud dataflow": {
+    "name": "google cloud dataflow",
+    "category": "service"
+  },
+  "google directions api": {
+    "name": "google directions api",
+    "category": "service"
+  },
+  "google authentication": {
+    "name": "google authentication",
+    "category": "service"
+  },
+  "google sheets api": { "name": "google sheets api", "category": "service" },
+  "google cloud ml": { "name": "google cloud ml", "category": "service" },
+  "google app maker": { "name": "google app maker", "category": "service" },
+  "google maps sdk ios": {
+    "name": "google maps sdk ios",
+    "category": "library/framework"
+  },
+  "google oauth2": { "name": "google oauth2", "category": "service" },
+  "google fusion tables": {
+    "name": "google fusion tables",
+    "category": "service"
+  },
+  "google play games": {
+    "name": "google play games",
+    "category": "software program"
+  },
+  "google cloud datastore": {
+    "name": "google cloud datastore",
+    "category": "service"
+  },
+  "google signin": { "name": "google signin", "category": "service" },
+  "google api client": { "name": "google api client", "category": "service" },
+  "google closure compiler": {
+    "name": "google closure compiler",
+    "category": "compiler"
+  },
+  "google cloud pubsub": {
+    "name": "google cloud pubsub",
+    "category": "service"
+  },
+  "google surveys": { "name": "google surveys", "category": "service" },
+  "google talk": { "name": "google talk", "category": "service" },
+  "google analytics api": {
+    "name": "google analytics api",
+    "category": "service"
+  },
+  "google custom search": {
+    "name": "google custom search",
+    "category": "service"
+  },
+  "google maps markers": { "name": "google maps markers", "category": "skip" },
+  "google docs api": { "name": "google docs api", "category": "service" },
+  "google cloud endpoints": {
+    "name": "google cloud endpoints",
+    "category": "service"
+  },
+  "google admin sdk": {
+    "name": "google admin sdk",
+    "category": "library/framework"
+  },
+  "google chrome app": {
+    "name": "google chrome app",
+    "category": "software program"
+  },
+  "google chrome devtools": {
+    "name": "google chrome devtools",
+    "category": "software program"
+  },
+  "google sheets formula": {
+    "name": "google sheets formula",
+    "category": "concept"
+  },
+  "azure databricks": { "name": "azure databricks", "category": "service" },
+  "database migration": { "name": "database migration", "category": "concept" },
+  "databricks": { "name": "databricks", "category": "company" },
+  "decoupling": { "name": "decoupling", "category": "concept" },
+  "docker compose": {
+    "name": "docker compose",
+    "category": "software program"
+  },
+  "java 9": { "name": "java 9", "category": "language" },
+  "icloud": { "name": "icloud", "category": "service" },
+  "user defined functions": {
+    "name": "user defined functions",
+    "category": "concept"
+  },
+  "database schema": { "name": "database schema", "category": "concept" },
+  "jenkins pipeline": { "name": "jenkins pipeline", "category": "concept" },
+  "jsx": { "name": "jsx", "category": "library/framework" },
+  "kubernetes helm": {
+    "name": "kubernetes helm",
+    "category": "software program"
+  },
+  "lex": { "name": "lex", "category": "software program" },
+  "convolution": { "name": "convolution", "category": "concept" },
+  "local storage": { "name": "local storage", "category": "concept" },
+  "conv neural network": {
+    "name": "conv neural network",
+    "category": "concept"
+  },
+  "magic methods": { "name": "magic methods", "category": "concept" },
+  "memcached": { "name": "memcached", "category": "concept" },
+  "mesos": { "name": "mesos", "category": "software program" },
+  "minikube": { "name": "minikube", "category": "software program" },
+  "video processing": { "name": "video processing", "category": "concept" },
+  "clipboard": { "name": "clipboard", "category": "concept" },
+  "obfuscation": { "name": "obfuscation", "category": "concept" },
+  "object detection": { "name": "object detection", "category": "concept" },
+  "overlap": { "name": "overlap", "category": "concept" },
+  "python idle": { "name": "python idle", "category": "concept" },
+  "react hooks": { "name": "react hooks", "category": "concept" },
+  "react router dom": {
+    "name": "react router dom",
+    "category": "library/framework"
+  },
+  "recommendation engine": {
+    "name": "recommendation engine",
+    "category": "concept"
+  },
+  "runnable": { "name": "runnable", "category": "concept" },
+  "azure data lake": { "name": "azure data lake", "category": "service" },
+  "tensorboard": { "name": "tensorboard", "category": "library/framework" },
+  "accessor": { "name": "accessor", "category": "concept" },
+  "apache beam": { "name": "apache beam", "category": "library/framework" },
+  "anonymous function": { "name": "anonymous function", "category": "concept" },
+  "event listener": { "name": "event listener", "category": "concept" },
+  "flux": { "name": "flux", "category": "library/framework" },
+  "form submit": { "name": "form submit", "category": "concept" },
+  "global variables": { "name": "global variables", "category": "concept" },
+  "docker swarm": { "name": "docker swarm", "category": "concept" },
+  "docker registry": { "name": "docker registry", "category": "concept" },
+  "access modifiers": { "name": "access modifiers", "category": "concept" },
+  "gorilla": { "name": "gorilla", "category": "concept" },
+  "dependency management": {
+    "name": "dependency management",
+    "category": "concept"
+  },
+  "serverless framework": {
+    "name": "serverless framework",
+    "category": "concept"
+  },
+  "alexa skill": { "name": "alexa skill", "category": "concept" },
+  "code kata": { "name": "code kata", "category": "concept" },
+  "x11": { "name": "x11", "category": "library/framework" },
+  "auth0": { "name": "auth0", "category": "service" },
+  "azure artifacts": { "name": "azure artifacts", "category": "service" },
+  "azure pipelines": { "name": "azure pipelines", "category": "service" },
+  "between": { "name": "between", "category": "concept" },
+  "boto3": { "name": "boto3", "category": "library/framework" },
+  "bundler": { "name": "bundler", "category": "software program" },
+  "dql": { "name": "dql", "category": "language" },
+  "graph databases": { "name": "graph databases", "category": "concept" },
+  "gremlin": { "name": "gremlin", "category": "language" },
+  "haskell snap framework": {
+    "name": "haskell snap framework",
+    "category": "library/framework"
+  },
+  "inertiajs": { "name": "inertiajs", "category": "library/framework" },
+  "julian date": { "name": "julian date", "category": "concept" },
+  "key value": { "name": "key value", "category": "concept" },
+  "minecraft": { "name": "minecraft", "category": "software program" },
+  "sparql": { "name": "sparql", "category": "language" }
+}
